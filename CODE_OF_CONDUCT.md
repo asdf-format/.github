@@ -1,4 +1,3 @@
-(code-of-conduct)=
 # ASDF-format Open Source Code of Conduct
 
 We expect all "ASDF-format" organization projects to adopt a code of conduct
