@@ -17,5 +17,6 @@ STScI software maintainers welcome contributions, including those developed with
    1. AI should not be used to generate comments when communicating with maintainers. Issues and pull requests should be described in your own words. Any use of AI must be disclosed.
    2. The pull request process is collaborative and iterative. Contributors are expected to actively engage with reviewer feedback themselves. Copying and pasting replies to / from a generative AI tool does not count as engaging with the reviewer.
    3. If using AI tools for translation, please write in your native language and include the AI translation in a quote block following the original text.
+   4. All pull requests must be reviewed by a human other than the contributor.
 5. Consistency with repository conventions and existing style
    1. In the context of Generative AI, this particularly means adhering to any linting standards as well as conveying information (comments, documentation, etc.) in a style the repository uses, and that is appropriate and to the point.
